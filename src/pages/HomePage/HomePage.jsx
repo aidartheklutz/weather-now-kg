@@ -105,8 +105,8 @@ function HomePage({ city, setCity }) {
           <img
             src={
               weatherData
-                ? `../../src/assets/weather-icons/${weatherIconMap[weatherData.weather[0].id].icon}.png`
-                : "../../src/assets/weather-icons/sunny.png"
+                ? `/weather-icons/${weatherIconMap[weatherData.weather[0].id].icon}.png`
+                : "/weather-icons/sunny.png"
             }
           />
           <div className="weather-data">
