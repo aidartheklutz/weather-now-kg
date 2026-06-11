@@ -49,3 +49,5 @@ export const cities = {
   daroot_korgon: { name: "Дароот-Коргон", lat: 39.5528, lon: 72.2056 },
   chatkal: { name: "Чаткал", lat: 41.95, lon: 71.85 },
 };
+
+// hi
