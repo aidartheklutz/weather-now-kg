@@ -1,0 +1,33 @@
+.center {
+    display: flex;
+    min-height: 25vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#cityName {
+    font-size: 3em;
+}
+
+#weather {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 0;
+}
+
+#feelsLike {
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: -20px;
+}
+
+.weather-info {
+    display: flex;
+    gap: 0px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.weather-data {
+    font-size: 30px;
+}
