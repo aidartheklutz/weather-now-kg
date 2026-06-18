@@ -12,10 +12,10 @@ Built to practice working with APIs and basic UI design. It fetches real-time we
 
 ## Tech Stack
 
-- React  
-- JavaScript  
-- OpenWeather API  
-- CSS  
+- **React** + **Vite**
+- **React Router** (for navigation between pages)
+- **OpenWeather API** (for fetching accurate weather data)
+- **Vercel** (for deployment)
 
 ## Purpose
 
