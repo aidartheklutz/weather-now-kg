@@ -14,7 +14,7 @@ Built to practice working with APIs and basic UI design. It fetches real-time we
 
 - React  
 - JavaScript  
-- Weather API  
+- OpenWeather API  
 - CSS  
 
 ## Purpose
